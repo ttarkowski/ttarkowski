@@ -12,7 +12,7 @@ Short scientific bio:
 
 List of publications:
   * <https://orcid.org/0000-0002-6071-9389>
-  * <https://scholar.google.com/citations?hl=pl&user=Vh546sYAAAAJ>
+  * <https://scholar.google.com/citations?user=Vh546sYAAAAJ>
 
 ********************************************************************************
 
